@@ -15,7 +15,7 @@
   <a href="https://leetcode.com/u/Himi_Vyas/" target="blank">
     <img align="center" src="https://img.shields.io/badge/LeetCode-1808_max_(Top_15%25)-orange?style=for-the-badge&logo=leetcode" alt="LeetCode"/>
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/himi" target="blank">
+  <a href="https://auth.geeksforgeeks.org/user/himiiiii" target="blank">
     <img align="center" src="https://img.shields.io/badge/GeeksforGeeks-Top_1%25-brightgreen?style=for-the-badge&logo=geeksforgeeks" alt="GFG"/>
   </a>
   <a href="https://codeforces.com/profile/Himi_Vyas" target="blank">
