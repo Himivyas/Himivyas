@@ -5,6 +5,7 @@
 
 -  B.Tech student at Computer Engineering at The LNM Institute of Information Technology, Jaipur.
 -  Specializing in **Artificial Intelligence (AI) and Machine Learning (ML)** .
+-  **Google WE cohort 6 Scholar**, program by Talentsprint and Google.
 -  **Amazon Future Engineer** Scholar | **BNY Mellon Code Divas'23** Finalist.
 -  Passionate about building innovative solutions and solving complex problems.
 -  How to reach me: **himivyas18@gmail.com**
