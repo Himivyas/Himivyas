@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himi Vyas</h1>
 <h3 align="center">Aspiring Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dishatimbadiya&label=Profile%20views&color=0e75b6&style=flat" alt="dishatimbadiya" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Himivyas&label=Profile%20views&color=0e75b6&style=flat" alt="Himivyas" /> </p>
 
 -  B.Tech student at Computer Engineering at The LNM Institute of Information Technology, Jaipur.
 -  Specializing in **Artificial Intelligence (AI) and Machine Learning (ML)** .
