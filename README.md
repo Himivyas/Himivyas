@@ -32,8 +32,8 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Himi_54" height="30" width="40"/>
   </a>
   <a href="mailto:himivyas18@gmail.com">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40"/>
-  </a>
+  <img align="center" src="https://github.com/Himivyas/Himivyas/blob/main/gmail.png?raw=true" alt="email" height="30" width="40"/>
+</a>
 </p>
 
 <h3 align="left">Technical Skills:</h3>
