@@ -92,7 +92,7 @@
 
 ## 👨‍💻Featured Projects:
 
-### 🌱 IntelliTestX
+### 🌱 AutoTester AI
 [![GitHub](https://img.shields.io/badge/GitHub-View_Code-black?style=for-the-badge&logo=github)](https://github.com/Himivyas/Autotext_AI-)
 
 An AI-driven automated testing agent built with Langchain that converts user-uploaded requirement PDFs into structured
