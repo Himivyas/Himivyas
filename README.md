@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Himivyas&label=Profile%20views&color=0e75b6&style=flat" alt="Himivyas" /> </p>
 
--  B.Tech student at Computer Engineering at The LNM Institute of Information Technology, Jaipur.
+-  B.Tech student at The LNM Institute of Information Technology, Jaipur.
 -  Specializing in **Artificial Intelligence (AI) and Machine Learning (ML)** .
 -  **Google WE cohort 6 Scholar**, program by Talentsprint and Google.
 -  **Amazon Future Engineer** Scholar | **BNY Mellon Code Divas'23** Finalist.
