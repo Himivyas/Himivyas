@@ -13,7 +13,7 @@
 <h3 align="left">Competitive Programming Profiles:</h3>
 <p align="left">
   <a href="https://leetcode.com/u/Himi_Vyas/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LeetCode-1808_max_(Top_15%25)-orange?style=for-the-badge&logo=leetcode" alt="LeetCode"/>
+    <img align="center" src="https://img.shields.io/badge/LeetCode-1808_max_(Top_7%25)-orange?style=for-the-badge&logo=leetcode" alt="LeetCode"/>
   </a>
   <a href="https://auth.geeksforgeeks.org/user/himiiiii" target="blank">
     <img align="center" src="https://img.shields.io/badge/GeeksforGeeks-Top_1%25-brightgreen?style=for-the-badge&logo=geeksforgeeks" alt="GFG"/>
